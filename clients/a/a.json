@@ -1,0 +1,13 @@
+{
+  "client": "a",
+  "clientId": "a",
+  "coverImage": "clients/a/cover/cover.jpg",
+  "events": [
+    {
+      "eventName": "x",
+      "images": [
+        "clients/a/x/c223e4cc-21a9-4fc4-9b7f-63d1959abfc2__A742662.jpg"
+      ]
+    }
+  ]
+}
