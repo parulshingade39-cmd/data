@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "hero-film",
+    "title": "Ashwini & Shrikant",
+    "location": "Mumbai",
+    "description": "A timeless wedding film capturing emotions...",
+    "video": "films/videos/hero.mp4",
+    "poster": "films/posters/hero.jpg",
+    "hero": true
+  },
+  {
+    "slug": "left-film",
+    "title": "Rahul & Sneha",
+    "location": "Pune",
+    "description": "An intimate ceremony full of warmth...",
+    "video": "films/videos/left.mp4",
+    "poster": "films/posters/left.jpg"
+  },
+  {
+    "slug": "right-film",
+    "title": "Amit & Neha",
+    "location": "Udaipur",
+    "description": "A royal destination wedding experience...",
+    "video": "films/videos/right.mp4",
+    "poster": "films/posters/right.jpg"
+  }
+]
