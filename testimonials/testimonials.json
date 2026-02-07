@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "author": "Ashwini & Shrikant",
+      "rating": 5,
+      "text": "Choosing Weddmac was the best decision we made for our wedding.",
+      "approved": true
+    },
+    {
+      "author": "Nikita & Pratik",
+      "rating": 5,
+      "text": "Our wedding film still gives us goosebumps every time we watch it.",
+      "approved": true
+    },
+    {
+      "author": "Shivangi & Bhaumik",
+      "rating": 5,
+      "text": "Captured every moment so beautifully and effortlessly.",
+      "approved": true
+    }
+  ]
+}
